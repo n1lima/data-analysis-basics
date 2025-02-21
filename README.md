@@ -1,8 +1,8 @@
-# 📊 Análise de Dados - Programaria
+# Análise de Dados - Programaria
 
 Este repositório contém um notebook com os exercícios do curso **"Primeiros Passos na Análise de Dados"** da Programaria.  
 
-## 📌 Conteúdo  
+## Conteúdo  
 
 O notebook inclui:  
 - Manipulação de dados com **Pandas**  
@@ -13,7 +13,7 @@ O notebook inclui:
 - Distribuição Amostral e Intervalo de Confiança com **SciPy**  
 - Introdução a **Feature Engineering**  
 
-## 🚀 Como usar  
+## Como usar  
 
 1. Clone o repositório:  
    ```bash

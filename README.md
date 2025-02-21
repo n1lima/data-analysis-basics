@@ -17,4 +17,4 @@ O notebook inclui:
 
 1. Clone o repositório:  
    ```bash
-  [ git clone https://github.com/seu-usuario/seu-repositorio.git](https://github.com/n1lima/data-analysis-basics.git)
+   git clone https://github.com/n1lima/data-analysis-basics.git
